@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="liQyfckzb0vr-cdrv5Kl" name="Page-1">
-        <mxGraphModel dx="1641" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2484" dy="1643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -92,7 +92,7 @@
                     <mxGeometry x="485" y="540" width="70" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="29" value="Bulding" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-                    <mxGeometry x="250" y="870" width="80" height="50" as="geometry"/>
+                    <mxGeometry x="320" y="860" width="80" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="31" value="Floor" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
                     <mxGeometry x="170" y="840" width="80" height="50" as="geometry"/>
@@ -154,9 +154,6 @@
                         <mxPoint x="420" y="630" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="49" value="Maybe help to connect the circles together :)&lt;br&gt;Ayy let's go!Good!!!" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="450" y="810" width="250" height="30" as="geometry"/>
-                </mxCell>
                 <mxCell id="50" value="" style="endArrow=none;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="44">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="360" y="700" as="sourcePoint"/>
@@ -179,16 +176,13 @@
                     <mxGeometry x="-610" y="250" width="740" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="57" value="&quot;If a room is a classroom or lab &amp;nbsp;it has a schedule.&quot;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="-290" y="740" width="290" height="20" as="geometry"/>
+                    <mxGeometry x="-630" y="630" width="290" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="58" value="Not sure, that's why i'm thinking about it" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="-365" y="510" width="230" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="59" value="But yeah blue is the first level of attribute, green is the second, and you can choose any other colour for the third level" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="-590" y="560" width="640" height="20" as="geometry"/>
-                </mxCell>
                 <mxCell id="60" value="Yeah..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="-225" y="800" width="50" height="20" as="geometry"/>
+                    <mxGeometry x="-550" y="690" width="50" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="61" value="Semester" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
                     <mxGeometry x="-300" y="300" width="120" height="60" as="geometry"/>
@@ -224,16 +218,49 @@
                     <mxGeometry x="-430" y="385" width="100" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="74" value="Start Time" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-                    <mxGeometry x="-135" y="790" width="120" height="80" as="geometry"/>
+                    <mxGeometry x="-210" y="750" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="75" value="Name (Person)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-                    <mxGeometry x="-65" y="890" width="120" height="80" as="geometry"/>
+                    <mxGeometry x="-160" y="830" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="76" value="Duration" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
                     <mxGeometry x="70" y="930" width="120" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="77" value="Purpose" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-                    <mxGeometry x="250" y="950" width="120" height="80" as="geometry"/>
+                    <mxGeometry x="440" y="820" width="115" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" value="Yeah you connect them I believe to room" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-325" y="910" width="230" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="what about in books relationship?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-295" y="990" width="190" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="81" value="ehh...not sure yet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-265" y="1040" width="110" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" value="" style="endArrow=none;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="74" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="-140" y="790" as="sourcePoint"/>
+                        <mxPoint x="-90" y="740" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="83" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="3" target="75">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint y="850" as="sourcePoint"/>
+                        <mxPoint x="-110" y="760" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="84" value="" style="endArrow=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="76" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="80" y="930" as="sourcePoint"/>
+                        <mxPoint x="130" y="880" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="85" value="" style="endArrow=none;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="77" target="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="260" y="770" as="sourcePoint"/>
+                        <mxPoint x="310" y="720" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
